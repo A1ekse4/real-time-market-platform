@@ -77,7 +77,7 @@ Trade processor:
 Redis как hot storage  
 Redis хранит:
 - текущую цену
-- текущую (незакрытую) свечу
+- текущую незакрытую свечу
 - последнюю закрытую свечу
 
 PostgreSQL как persistent storage  
